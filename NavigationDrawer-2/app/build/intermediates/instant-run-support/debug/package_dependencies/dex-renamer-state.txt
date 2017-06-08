@@ -1,0 +1,22 @@
+#Mon May 22 11:00:53 EDT 2017
+renamed.6=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes2.dex
+renamed.3=classes7.dex
+renamed.2=classes4.dex
+renamed.1=classes3.dex
+renamed.0=classes5.dex
+base.6=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2073baa140230ccf4b60181a38aee4f7f862adc6
+base.5=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6f03bf49d6819c1a88054fa75d4a1f928115fce
+base.4=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_638953212d89df132d08d394f6fbc5adb033cab2
+base.3=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c2b05fa9f160a75b40e42acd41e3db626db2bd87
+base.2=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5da3527736fde14ba89d4365210c412ad62e758
+base.1=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87a358abcf4d626db009a1445b5c6ee0ba4fc060
+base.0=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7e6b417485166224ac7b190a4a8fd10ea3a8a29
+file.6=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2073baa140230ccf4b60181a38aee4f7f862adc6/classes.dex
+file.5=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6f03bf49d6819c1a88054fa75d4a1f928115fce/classes.dex
+file.4=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_638953212d89df132d08d394f6fbc5adb033cab2/classes.dex
+file.3=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c2b05fa9f160a75b40e42acd41e3db626db2bd87/classes.dex
+file.2=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5da3527736fde14ba89d4365210c412ad62e758/classes.dex
+file.1=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87a358abcf4d626db009a1445b5c6ee0ba4fc060/classes.dex
+file.0=/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7e6b417485166224ac7b190a4a8fd10ea3a8a29/classes.dex

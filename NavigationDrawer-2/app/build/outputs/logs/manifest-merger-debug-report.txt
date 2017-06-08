@@ -1,0 +1,76 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:18:5-58
+		INJECTED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:22:5-74
+MERGED from [com.android.support:support-v4:25.3.1] /Users/ronalddaugherty/.android/build-cache/559fa7f6418165fd00999852a25549092fa51542/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/ronalddaugherty/.android/build-cache/0c1985ced2b0cc1ea03a2aaef70c879d1995cbe5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/ronalddaugherty/.android/build-cache/5f28728c88e0a408cd93c249148d5039ce671e85/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/ronalddaugherty/.android/build-cache/e6d82fd4e9e800da29555d21e766d10f3fb2b01b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/ronalddaugherty/.android/build-cache/0ede19f67ab6cad490c9817c941857b57dc84113/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/ronalddaugherty/.android/build-cache/65eb0f740a1649bf6a8ab69c6d71cf709f00cf55/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/ronalddaugherty/.android/build-cache/559fa7f6418165fd00999852a25549092fa51542/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:22:42-71
+		INJECTED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:22:15-41
+		INJECTED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:24:5-38:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/ronalddaugherty/.android/build-cache/559fa7f6418165fd00999852a25549092fa51542/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/ronalddaugherty/.android/build-cache/0c1985ced2b0cc1ea03a2aaef70c879d1995cbe5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/ronalddaugherty/.android/build-cache/5f28728c88e0a408cd93c249148d5039ce671e85/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/ronalddaugherty/.android/build-cache/e6d82fd4e9e800da29555d21e766d10f3fb2b01b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/ronalddaugherty/.android/build-cache/0ede19f67ab6cad490c9817c941857b57dc84113/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/ronalddaugherty/.android/build-cache/65eb0f740a1649bf6a8ab69c6d71cf709f00cf55/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:27:9-70
+activity#com.example.android.navigationdrawerexample.MainActivity
+ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/AndroidManifest.xml:34:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /Users/ronalddaugherty/.android/build-cache/559fa7f6418165fd00999852a25549092fa51542/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/ronalddaugherty/.android/build-cache/0c1985ced2b0cc1ea03a2aaef70c879d1995cbe5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/ronalddaugherty/.android/build-cache/5f28728c88e0a408cd93c249148d5039ce671e85/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/ronalddaugherty/.android/build-cache/e6d82fd4e9e800da29555d21e766d10f3fb2b01b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/ronalddaugherty/.android/build-cache/0ede19f67ab6cad490c9817c941857b57dc84113/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/ronalddaugherty/.android/build-cache/65eb0f740a1649bf6a8ab69c6d71cf709f00cf55/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/ronalddaugherty/.android/build-cache/559fa7f6418165fd00999852a25549092fa51542/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/ronalddaugherty/.android/build-cache/559fa7f6418165fd00999852a25549092fa51542/output/AndroidManifest.xml:26:9-47

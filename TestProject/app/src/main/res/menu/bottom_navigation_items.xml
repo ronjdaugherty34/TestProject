@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_login"
+        android:title="@string/text_login"
+        android:icon="@drawable/paste"
+
+
+         />
+    <item
+        android:id="@+id/action_add_recipes"
+        android:title="@string/text_add_recipe"
+        android:icon="@drawable/star"
+        />
+    <item
+        android:id="@+id/action_read_recipes"
+        android:title="@string/text_read_recipe"
+        android:icon="@drawable/heart"
+         />
+
+</menu>

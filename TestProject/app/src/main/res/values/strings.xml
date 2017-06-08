@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="text_login">Login</string>
+    <string name="text_add_recipe">Add Recipes</string>
+    <string name="text_read_recipe">Read Recipes</string>
+
+</resources>

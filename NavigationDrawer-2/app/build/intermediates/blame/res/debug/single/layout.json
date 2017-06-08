@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/res/merged/debug/layout/fragment_planet.xml",
+        "source": "/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/res/layout/fragment_planet.xml"
+    },
+    {
+        "merged": "/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/ronalddaugherty/AndroidStudioProjects/NavigationDrawer-2/app/src/main/res/layout/activity_main.xml"
+    }
+]
